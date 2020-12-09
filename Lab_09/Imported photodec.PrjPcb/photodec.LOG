@@ -1,0 +1,91 @@
+PCAD Importer Log
+Project : photodec.PrjPcb
+
+Section : C:\csdt\Lab_04\photodec.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 255
+        Warning - 1 : Skipping Token defaultPinDes On Line 256
+        Warning - 1 : Skipping Token defaultPinDes On Line 274
+        Warning - 1 : Skipping Token defaultPinDes On Line 275
+        Warning - 1 : Skipping Token defaultPinDes On Line 319
+        Warning - 1 : Skipping Token defaultPinDes On Line 320
+        Warning - 1 : Skipping Token defaultPinDes On Line 367
+        Warning - 1 : Skipping Token defaultPinDes On Line 368
+        Warning - 1 : Skipping Token defaultPinDes On Line 369
+        Warning - 1 : Skipping Token defaultPinDes On Line 370
+        Warning - 1 : Skipping Token defaultPinDes On Line 371
+        Warning - 1 : Skipping Token defaultPinDes On Line 372
+        Warning - 1 : Skipping Token defaultPinDes On Line 373
+        Warning - 1 : Skipping Token defaultPinDes On Line 374
+        Warning - 1 : Skipping Token defaultPinDes On Line 393
+        Warning - 1 : Skipping Token defaultPinDes On Line 414
+        Warning - 1 : Skipping Token defaultPinDes On Line 457
+        Warning - 1 : Skipping Token defaultPinDes On Line 458
+        Warning - 1 : Skipping Token defaultPinDes On Line 481
+        Warning - 1 : Skipping Token defaultPinDes On Line 482
+        Warning - 1 : Skipping Token defaultPinDes On Line 483
+        Warning - 1 : Skipping Token defaultPinDes On Line 484
+        Warning - 1 : Skipping Token defaultPinDes On Line 485
+        Warning - 1 : Skipping Token attachedSymbol On Line 510
+        Warning - 1 : Skipping Token attachedSymbol On Line 532
+        Warning - 1 : Skipping Token attachedSymbol On Line 553
+        Warning - 1 : Skipping Token attachedSymbol On Line 572
+        Warning - 1 : Skipping Token attachedSymbol On Line 591
+        Warning - 1 : Skipping Token attachedSymbol On Line 592
+        Warning - 1 : Skipping Token attachedSymbol On Line 614
+        Warning - 1 : Skipping Token attachedSymbol On Line 641
+        Warning - 1 : Skipping Token attachedSymbol On Line 670
+        Warning - 1 : Skipping Token attachedSymbol On Line 692
+        Warning - 1 : Skipping Token attachedSymbol On Line 712
+        Warning - 1 : Skipping Token attachedSymbol On Line 732
+        Warning - 1 : Skipping Token refPointSize On Line 906
+        Warning - 1 : Skipping Token infoPointSize On Line 907
+        Warning - 1 : Skipping Token gluePointSize On Line 908
+        Warning - 1 : Skipping Token pickPointSize On Line 909
+        Warning - 1 : Skipping Token testPointSize On Line 910
+        Warning - 1 : Skipping Token refPointSizePrint On Line 911
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 912
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 913
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 914
+        Warning - 1 : Skipping Token testPointSizePrint On Line 915
+        Warning - 1 : Skipping Token solderFlowDirection On Line 916
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 917
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 918
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 919
+        Warning - 1 : Skipping Token number On Line 989
+        Warning - 1 : Skipping Token number On Line 992
+        Warning - 1 : Skipping Token number On Line 995
+        Warning - 1 : Skipping Token number On Line 998
+        Warning - 1 : Skipping Token number On Line 1001
+        Warning - 1 : Skipping Token number On Line 1004
+        Warning - 1 : Skipping Token number On Line 1007
+        Warning - 1 : Skipping Token number On Line 1010
+        Warning - 1 : Skipping Token number On Line 1013
+        Warning - 1 : Skipping Token number On Line 1016
+        Warning - 1 : Skipping Token number On Line 1019
+        Warning - 1 : Skipping Token number On Line 1022
+        Warning - 1 : Skipping Token number On Line 1025
+        Warning - 1 : Skipping Token number On Line 1028
+        Warning - 1 : Skipping Token number On Line 1031
+        Warning - 1 : Skipping Token number On Line 1043
+        Warning - 1 : Skipping Token number On Line 1053
+        Warning - 1 : Skipping Token number On Line 1056
+        Warning - 1 : Skipping Token number On Line 1059
+        Warning - 1 : Skipping Token drillSymSettings On Line 1274
+        Warning - 1 : Skipping Token gerberSettings On Line 1276
+        Warning - 1 : Skipping Token ncDrillSettings On Line 1290
+        Warning - 1 : Skipping Token programState On Line 1299
+        Warning - 1 : Skipping Token displayDrawOrder On Line 1340
+        Warning - 1 : Skipping Token reportSettings On Line 1563
+        Warning - 1 : Skipping Token odbSettings On Line 2260
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [SFM-T2(3)/X1.6V][Primary] associated with PCAD Component [PHOTO_NPN] has been renamed to PCB FootPrint [SFM-T2(3)/X1.6V_PHOTO_NPN(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RES][Primary] associated with PCAD Component [RES] has been renamed to PCB FootPrint [RES_RES(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [สา315][Primary] associated with PCAD Component [สา315] has been renamed to PCB FootPrint [สา315_สา315(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RES][Primary] associated with PCAD Component [RES] has been renamed to PCB FootPrint [RES_RES(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RES][Primary] associated with PCAD Component [RES] has been renamed to PCB FootPrint [RES_RES(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [สำ101ภ][Primary] associated with PCAD Component [สำ101ภ] has been renamed to PCB FootPrint [สำ101ภ_สำ101ภ(Primary)].
+    EndSection
+EndSection

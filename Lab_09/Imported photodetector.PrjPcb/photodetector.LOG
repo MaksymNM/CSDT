@@ -1,0 +1,45 @@
+PCAD Importer Log
+Project : photodetector.PrjPcb
+
+Section : C:\csdt\Lab_03\photodetector.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 223
+        Warning - 1 : Skipping Token defaultPinDes On Line 231
+        Warning - 1 : Skipping Token defaultPinDes On Line 239
+        Warning - 1 : Skipping Token defaultPinDes On Line 325
+        Warning - 1 : Skipping Token defaultPinDes On Line 333
+        Warning - 1 : Skipping Token defaultPinDes On Line 341
+        Warning - 1 : Skipping Token defaultPinDes On Line 349
+        Warning - 1 : Skipping Token defaultPinDes On Line 357
+        Warning - 1 : Skipping Token defaultPinDes On Line 365
+        Warning - 1 : Skipping Token defaultPinDes On Line 373
+        Warning - 1 : Skipping Token defaultPinDes On Line 381
+        Warning - 1 : Skipping Token defaultPinDes On Line 398
+        Warning - 1 : Skipping Token gridDfns On Line 1022
+        Warning - 1 : Skipping Token refPointSize On Line 1044
+        Warning - 1 : Skipping Token infoPointSize On Line 1045
+        Warning - 1 : Skipping Token junctionSize On Line 1046
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1047
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1048
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1049
+        Warning - 1 : Skipping Token PrintRegion On Line 1272
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1276
+        Warning - 1 : Skipping Token ecoState On Line 1291
+        Warning - 1 : Skipping Token currentTextStyle On Line 1292
+        Warning - 1 : Skipping Token reportSettings On Line 1295
+    EndSection
+
+    Section : Generating SCH Library - photodetector.SchLib
+        Warning : Component [CAP_POL1] - removed empty display mode [IEEE] for part number [1]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : Add Power Object for Pin Name [GND] at location [6499.987mil : 799.998mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7099.986mil : 899.998mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2699.995mil : 4299.991mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4699.991mil : 2399.995mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

@@ -1,0 +1,113 @@
+PCAD Importer Log
+Project : AnalogDevices_Matiushok.LibPkg
+
+Section : C:\csdt\Lab_04\AnalogDevices_Matiushok.lib
+    Section : PCB Library - AnalogDevices_Matiushok.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 132
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token KP1006¬»1 On Line 301
+            Warning - 1 : Skipping Token PUT On Line 374
+            Warning - 1 : Skipping Token RES On Line 391
+            Warning - 1 : Skipping Token  71-6 On Line 419
+            Warning - 1 : Skipping Token  œ-1 On Line 444
+            Warning - 1 : Skipping Token  “315 On Line 473
+            Warning - 1 : Skipping Token  ”101¿ On Line 511
+            Warning - 1 : Skipping Token  ”Õ038 On Line 548
+            Warning - 1 : Skipping Token attachedSymbol On Line 638
+            Warning - 1 : Skipping Token attachedSymbol On Line 663
+            Warning - 1 : Skipping Token attachedSymbol On Line 683
+            Warning - 1 : Skipping Token attachedSymbol On Line 703
+            Warning - 1 : Skipping Token attachedSymbol On Line 724
+            Warning - 1 : Skipping Token attachedSymbol On Line 746
+            Warning - 1 : Skipping Token attachedSymbol On Line 769
+            Warning - 1 : Skipping Token attachedSymbol On Line 797
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [PUT][Primary] associated with PCAD Component [PUT] has been renamed to PCB FootPrint [PUT_PUT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [RES][Primary] associated with PCAD Component [RES] has been renamed to PCB FootPrint [RES_RES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ 71-6][Primary] associated with PCAD Component [ 71-6] has been renamed to PCB FootPrint [ 71-6_ 71-6(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ œ-1][Primary] associated with PCAD Component [ œ-1] has been renamed to PCB FootPrint [ œ-1_ œ-1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ “315][Primary] associated with PCAD Component [ “315] has been renamed to PCB FootPrint [ “315_ “315(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ ”101¿][Primary] associated with PCAD Component [ ”101¿] has been renamed to PCB FootPrint [ ”101¿_ ”101¿(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - AnalogDevices_Matiushok.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token viaStyleDef On Line 63
+            Warning - 1 : Skipping Token multiLayer On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 135
+            Warning - 1 : Skipping Token multiLayer On Line 151
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 157
+            Warning - 1 : Skipping Token multiLayer On Line 171
+            Warning - 1 : Skipping Token layerContents On Line 175
+            Warning - 1 : Skipping Token layerContents On Line 178
+            Warning - 1 : Skipping Token multiLayer On Line 192
+            Warning - 1 : Skipping Token layerContents On Line 196
+            Warning - 1 : Skipping Token layerContents On Line 200
+            Warning - 1 : Skipping Token multiLayer On Line 214
+            Warning - 1 : Skipping Token layerContents On Line 218
+            Warning - 1 : Skipping Token layerContents On Line 222
+            Warning - 1 : Skipping Token multiLayer On Line 236
+            Warning - 1 : Skipping Token layerContents On Line 241
+            Warning - 1 : Skipping Token layerContents On Line 245
+            Warning - 1 : Skipping Token multiLayer On Line 259
+            Warning - 1 : Skipping Token layerContents On Line 264
+            Warning - 1 : Skipping Token layerContents On Line 267
+            Warning - 1 : Skipping Token multiLayer On Line 279
+            Warning - 1 : Skipping Token layerContents On Line 291
+            Warning - 1 : Skipping Token defaultPinDes On Line 309
+            Warning - 1 : Skipping Token defaultPinDes On Line 317
+            Warning - 1 : Skipping Token defaultPinDes On Line 325
+            Warning - 1 : Skipping Token defaultPinDes On Line 333
+            Warning - 1 : Skipping Token defaultPinDes On Line 341
+            Warning - 1 : Skipping Token defaultPinDes On Line 349
+            Warning - 1 : Skipping Token defaultPinDes On Line 357
+            Warning - 1 : Skipping Token defaultPinDes On Line 365
+            Warning - 1 : Skipping Token defaultPinDes On Line 382
+            Warning - 1 : Skipping Token defaultPinDes On Line 399
+            Warning - 1 : Skipping Token defaultPinDes On Line 407
+            Warning - 1 : Skipping Token defaultPinDes On Line 427
+            Warning - 1 : Skipping Token defaultPinDes On Line 435
+            Warning - 1 : Skipping Token defaultPinDes On Line 452
+            Warning - 1 : Skipping Token defaultPinDes On Line 460
+            Warning - 1 : Skipping Token defaultPinDes On Line 481
+            Warning - 1 : Skipping Token defaultPinDes On Line 489
+            Warning - 1 : Skipping Token defaultPinDes On Line 497
+            Warning - 1 : Skipping Token defaultPinDes On Line 519
+            Warning - 1 : Skipping Token defaultPinDes On Line 527
+            Warning - 1 : Skipping Token defaultPinDes On Line 535
+            Warning - 1 : Skipping Token defaultPinDes On Line 556
+            Warning - 1 : Skipping Token defaultPinDes On Line 564
+            Warning - 1 : Skipping Token defaultPinDes On Line 572
+            Warning - 1 : Skipping Token defaultPinDes On Line 580
+            Warning - 1 : Skipping Token defaultPinDes On Line 588
+            Warning - 1 : Skipping Token defaultPinDes On Line 596
+            Warning - 1 : Skipping Token defaultPinDes On Line 604
+            Warning - 1 : Skipping Token defaultPinDes On Line 612
+        EndSection
+
+        Section : Generating SCH Library - AnalogDevices_Matiushok.SchLib
+            Warning - 0 : PCAD Pattern Graphics [PUT][Primary] associated with PCAD Component [PUT] has been renamed to PCB FootPrint [PUT_PUT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [RES][Primary] associated with PCAD Component [RES] has been renamed to PCB FootPrint [RES_RES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ 71-6][Primary] associated with PCAD Component [ 71-6] has been renamed to PCB FootPrint [ 71-6_ 71-6(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ œ-1][Primary] associated with PCAD Component [ œ-1] has been renamed to PCB FootPrint [ œ-1_ œ-1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ “315][Primary] associated with PCAD Component [ “315] has been renamed to PCB FootPrint [ “315_ “315(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [ ”101¿][Primary] associated with PCAD Component [ ”101¿] has been renamed to PCB FootPrint [ ”101¿_ ”101¿(Primary)].
+        EndSection
+    EndSection
+EndSection
